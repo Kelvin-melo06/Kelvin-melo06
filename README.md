@@ -14,10 +14,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Municipa
 
 ## 🛠️ Habilidades
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Git**
+- <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="HTML5" width="28"/> **HTML**
+- <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS3" width="28"/> **CSS**
+- <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="28"/> **JavaScript**
+- <img src="https://www.liblogo.com/img-logo/gi7523gfaf-git-logo-git-logo-downloads.png" alt="Git" width="28"/> **Git**
 
 ---
 
