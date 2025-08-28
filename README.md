@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">👋 Olá, eu sou o Kelvin Henrique Melo!<br>Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul, com grande interesse e dedicação em desenvolvimento de software, principalmente na área de desenvolvimento web (Front-end). Estou sempre em busca do próximo passo para aprimorar meus conhecimentos e habilidades.</h1>
+<h1 align="center">👋 Minha jornada na programação é guiada pela curiosidade de entender o "porquê" de cada linha de código, o que me motiva a ir além do básico e buscar soluções robustas. Acredito que a persistência é a nossa maior ferramenta: nos dias em que a desmotivação bate, é a disciplina de continuar que nos faz evoluir.</h1>
 
 ###
 
