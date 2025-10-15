@@ -1,11 +1,13 @@
-<h2 align="left">👋 Bem-vindo!
+##
+<h1 align="left">👋 Bem-vindo!</h1>
 
-## Meu nome é Kelvin 😄
+<h1>Meu nome é Kelvin 😄</h1>
 
 <img align="right" height="190" style="border-radius:10px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ1aGNjbHQzdW90aHZ4NDhkMW90cmE1eHV3emJoeHNyZW80MXR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
+<p>
 Sou um entusiasta da tecnologia e apaixonado por resolver problemas através da programação.  
-Meu principal objetivo é **evoluir como desenvolvedor**, criando projetos que unam criatividade, lógica e impacto real.  
+Meu principal objetivo é evoluir como desenvolvedor, criando projetos que unam criatividade, lógica e impacto real.  
 
 Atualmente estou me dedicando a aprimorar meus conhecimentos em **JavaScript**, **HTML**, **CSS** e **banco de dados**, sempre buscando aprender algo novo todos os dias.  
 Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas** e **experiência do usuário (UX)**.  
@@ -13,8 +15,7 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 💡 Gosto de transformar ideias em código.  
 🚀 Acredito que cada projeto é uma oportunidade de aprendizado.  
 🎯 Meu foco é crescer na área de tecnologia e construir uma carreira sólida como desenvolvedor.  
-
-</h2>
+</p>
 
 <div align="left">
   <h1> Minhas Skills👨🏽‍💻: </h1>
@@ -40,8 +41,6 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 </div>
 
 ##
-
-<img align="right" height="160" style="border-radius:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRzdWljcGVzM2FyMjJwMGx5bXhtbXhlZDBoYjh0bHl1MWkyNGg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelvin-melo06&show_icons=true&count_private=true&theme=radical)
 
