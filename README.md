@@ -41,7 +41,7 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 
 ##
 
-<img align="right" height="200" style="border-radius:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRzdWljcGVzM2FyMjJwMGx5bXhtbXhlZDBoYjh0bHl1MWkyNGg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" height="140" style="border-radius:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRzdWljcGVzM2FyMjJwMGx5bXhtbXhlZDBoYjh0bHl1MWkyNGg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelvin-melo06&show_icons=true&count_private=true&theme=radical)
 
