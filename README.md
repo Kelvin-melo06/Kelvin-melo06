@@ -1,6 +1,5 @@
 ##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&lines=Ol%C3%A1%2C+seja+Bem+vindo%F0%9F%91%8B" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&height=60&lines=Ol%C3%A1%2C+seja+bem+vindo%F0%9F%91%8B%F0%9F%A4%96" alt="Typing SVG" /></a>
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&lines=Meu+nome+%C3%A9+Kelvin!" alt="Typing SVG" /></a>
 
