@@ -47,14 +47,6 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelvin-melo06&show_icons=true&count_private=true&theme=radical)
 
 ##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
-##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&lines=Contato%3A" alt="Typing SVG" /></a>
 
 <div align="left">
