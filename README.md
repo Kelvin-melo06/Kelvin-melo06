@@ -9,7 +9,7 @@
 Sou um entusiasta da tecnologia e apaixonado por resolver problemas através da programação.  
 Meu principal objetivo é evoluir como desenvolvedor, criando projetos que unam criatividade, lógica e impacto real.  
 
-Atualmente estou me dedicando a aprimorar meus conhecimentos em **HTML**, **CSS** **JavaScript** **React.Js** e **Banco De Dados**, sempre buscando aprender algo novo todos os dias.  
+Atualmente estou me dedicando a aprimorar meus conhecimentos em **HTML**, **CSS** **JavaScript** **React.Js** e **MySql**, sempre buscando aprender algo novo todos os dias.  
 Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas** e **experiência do usuário (UX)**.  
 
 💡 Gosto de transformar ideias em código.  
