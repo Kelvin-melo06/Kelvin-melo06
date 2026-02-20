@@ -1,7 +1,7 @@
 ##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&height=60&lines=Ol%C3%A1%2C+seja+bem+vindo%F0%9F%91%8B%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9D4EDD&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo%F0%9F%91%8F%F0%9F%8F%BD%F0%9F%A4%96" alt="Typing SVG" /></a>
 ##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&lines=Meu+nome+%C3%A9+Kelvin!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9D4EDD&width=435&lines=Meu+nome+%C3%A9+Kelvin!" alt="Typing SVG" /></a>
 
 <img align="right" height="190" style="border-radius:10px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ1aGNjbHQzdW90aHZ4NDhkMW90cmE1eHV3emJoeHNyZW80MXR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
@@ -18,7 +18,7 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 </p>
 
 ##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&lines=Minhas+Skills%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9D4EDD&width=435&lines=Minhas+Skills%3A" alt="Typing SVG" /></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -45,7 +45,7 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelvin-melo06&show_icons=true&count_private=true&theme=radical)
 
 ##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=30&pause=1000&color=8C1F28&width=435&lines=Contato%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9D4EDD&width=435&lines=Contato%3A" alt="Typing SVG" /></a>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
