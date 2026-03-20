@@ -29,6 +29,8 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
   <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40"/>
+  <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -39,13 +41,9 @@ Também tenho grande interesse em **desenvolvimento web**, **interfaces modernas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelvin-melo06&show_icons=true&count_private=true&theme=radical)
 
-##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9D4EDD&width=435&lines=Contato%3A" alt="Typing SVG" /></a>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-</div>
+
+
 
 
 
